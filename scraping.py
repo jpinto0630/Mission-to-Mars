@@ -160,4 +160,3 @@ if __name__ == "__main__":
     # If running as script, print scraped data
     print(scrape_all())
 
-print(hemis)
